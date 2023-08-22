@@ -1,7 +1,7 @@
  <strong>Olá mundo, eu sou Milena!</strong> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" heigth= "15px" width= "15px">
 
 
-O objetivo é me tornar uma Desenvolvedora Jr e sempre dar a melhor versão de mim 💪🎮
+
 
 
 ✊🏾 🏳️‍🌈
